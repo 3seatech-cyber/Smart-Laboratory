@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="900" viewBox="0 0 800 900" fill="none">
+  <rect width="800" height="900" fill="#E7F1FA"/>
+  <rect x="70" y="70" width="660" height="760" rx="32" fill="white"/>
+  <circle cx="400" cy="300" r="120" fill="#C7DCEF"/>
+  <path d="M310 275c0-55 39-95 90-95s90 40 90 95-39 96-90 96-90-41-90-96z" fill="#D7B08A"/>
+  <path d="M306 269c8-78 50-123 113-123 62 0 107 48 110 125-22-17-48-25-73-24-40 1-74 18-150 22z" fill="#5F6E7A"/>
+  <path d="M277 552c26-78 92-122 173-122 82 0 149 45 176 122v165H277V552z" fill="#0C4D82"/>
+  <path d="M357 427l43 56 42-56 49 28-44 83h-95l-43-83 48-28z" fill="#F8B133"/>
+  <text x="400" y="790" font-family="Arial, sans-serif" font-size="28" text-anchor="middle" fill="#0C4D82">Imagen referencial local</text>
+</svg>
