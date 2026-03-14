@@ -1,0 +1,52 @@
+
+body{
+font-family: Arial, sans-serif;
+margin:0;
+background:#f5f7fb;
+color:#333;
+}
+
+.hero{
+text-align:center;
+background:#0c3b73;
+color:white;
+padding:60px 20px;
+}
+
+.logo{
+width:120px;
+margin-bottom:20px;
+}
+
+.section{
+padding:40px;
+max-width:1000px;
+margin:auto;
+}
+
+.speakers{
+display:flex;
+gap:20px;
+flex-wrap:wrap;
+justify-content:center;
+}
+
+.card{
+background:white;
+padding:20px;
+border-radius:10px;
+box-shadow:0 5px 15px rgba(0,0,0,0.1);
+text-align:center;
+width:220px;
+}
+
+.card img{
+width:120px;
+}
+
+footer{
+background:#111;
+color:white;
+text-align:center;
+padding:20px;
+}
